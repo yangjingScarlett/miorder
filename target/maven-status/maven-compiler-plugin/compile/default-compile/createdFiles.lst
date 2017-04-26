@@ -1,0 +1,3 @@
+com\xiaomi\miorder\service\UUIDProvider.class
+com\xiaomi\miorder\service\impl\UUIDProviderImpl.class
+com\xiaomi\miorder\controllers\UUIDController.class
